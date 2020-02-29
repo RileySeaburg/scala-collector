@@ -46,3 +46,4 @@ limitations under the License.
 [contributing]: https://github.com/snowplow/snowplow/wiki/Scala-Stream-collector-contributing
 
 [license]: http://www.apache.org/licenses/LICENSE-2.0
+# scala-collector
